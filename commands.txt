@@ -1,0 +1,2 @@
+pip install python-dotenv streamlit langchain langchain-openai openai==1.46.0
+
