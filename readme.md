@@ -13,8 +13,10 @@
 - Azure Container Apps 
 
 ## Architecture 
-![]
+![Architecture](aiappdev-visio.jpg)
 
+## Presentation Slide
+[Powerpoint Slide](AI-Apps-Dev-using-Azure-and-OpenAI.pdf)
 
 ## Instructions
 
