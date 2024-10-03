@@ -2,8 +2,8 @@
 
 ## Resources 
 
-- GitHub Repo 
-- YouTube Playlist 
+- GitHub Repo https://github.dev/wrijugh/genai-application
+- YouTube Playlist https://www.youtube.com/watch?v=9bbNbukPT2Y&list=PLPIVZsyfpXt8oifc9GOnWS2AsOvllIEwK
 
 
 ## Technologies 
@@ -13,6 +13,8 @@
 - Azure Container Apps 
 
 ## Architecture 
+![]
+
 
 ## Instructions
 
@@ -68,3 +70,6 @@ Once it is logged in, rename (`tag`) the local container image based on the regi
 ```
 docker push container-registry-url/customer:v1 
 ```
+
+## Contact
+Wriju Ghosh - https://www.linkedin.com/in/wrijughosh/
